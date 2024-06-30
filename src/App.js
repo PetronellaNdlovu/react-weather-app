@@ -15,7 +15,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Petronella Ndlovu
           </a>{" "}
           and is{" "}
           <a
