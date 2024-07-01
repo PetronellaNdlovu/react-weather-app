@@ -58,6 +58,13 @@ export default function Weather(props) {
                 className="btn btn-primary w-100"
               />
             </div>
+            <div className="col-3">
+              <input
+                type="submit"
+                value="Current"
+                className="btn btn-primary w-100"
+              />
+            </div>
           </div>
         </form>
         <WeatherInfo data={weatherData} />
