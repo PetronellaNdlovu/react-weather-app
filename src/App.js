@@ -26,7 +26,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://pnreact-weather-app.netlify.app/"
+            href="https://www.netlify.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
